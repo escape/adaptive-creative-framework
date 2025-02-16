@@ -91,6 +91,7 @@ Key principles include:
 
 ACF is best managed as a structured hierarchy of modular markdown files, rather than a single long document. This ensures ease of editing, expansion, and collaboration.
 
+```
 / Adaptive-Creative-Framework
 │── README.md
 │── 01_Cognitive_Framing.md
@@ -107,6 +108,7 @@ ACF is best managed as a structured hierarchy of modular markdown files, rather 
 │   ├── case_studies/
 │   ├── templates/
 │   ├── examples/
+```
 
 
 ## Contribution Guidelines
