@@ -1,13 +1,14 @@
 # ACF: Adaptive Creative Framework
 
-ACF doesn’t aim for perfect alignment — it aims for productive misalignment that sharpens vision.
-In a world of false clarity, contradiction becomes the most honest teacher.
+Dialectically enhanced · Hegelian Meta-Cycle[^1]
 
 ## Overview
 
-**ACF (Adaptive Creative Framework)** is an evolving, highly opinionated Agile methodology shaped by real-world struggles in creative and political industries. It is designed to balance structure and exploration, providing a practical workflow for agile creative production while ensuring strategic alignment, iterative refinement, and resilience against ideological distortions.
+**ACF (Adaptive Creative Framework)** is a living, highly opinionated Agile methodology forged through real-world creative and political struggles. It balances structure and exploration, strategy and intuition — while actively protecting creative processes from ideological capture and epistemic drift.
 
-ACF integrates cross-disciplinary research, epistemological validation, and iterative prototyping to refine creative work through a structured yet adaptable process. It emphasizes epistemic autonomy, reflexive inquiry, and proactive safeguards against algorithmic governance.
+ACF recently integrated a Hegelian meta-cycle: a dialectical engine that systematically detects internal contradictions within each creative stage (the thesis), introduces provocative variations (antithesis), and produces higher-order syntheses to evolve the project. Rather than smoothing tension, ACF leverages it as a generative force — embracing contradiction as a fuel for creative resilience.
+
+The framework draws from cross-disciplinary research, epistemological safeguards, and iterative prototyping. It emphasizes epistemic autonomy, reflexive inquiry, and resistance to algorithmic determinism through structured yet adaptive loops. 
 
 ## Disclaimer
 
@@ -136,3 +137,7 @@ You are free to **use, modify, and distribute** it, provided that you credit:
 ## Final Note
 
 ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
+
+## Notes
+
+[^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
