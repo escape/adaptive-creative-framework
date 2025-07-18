@@ -14,7 +14,7 @@ The framework draws from cross-disciplinary research, epistemological safeguards
 
 ## Computational Extension
 
-ACF is not only a conceptual methodology — it is **technologically extensible**.
+ACF is a **technologically extensible** conceptual methodology.
 
 It can be integrated into modern **private AI stacks** that combine:
 
