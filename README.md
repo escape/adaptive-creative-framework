@@ -1,6 +1,8 @@
 # ACF: Adaptive Creative Framework
 
-Dialectically enhanced · Hegelian Meta-Cycle [^1]
+## Disclaimer
+
+This framework is in continuous development. While it draws from direct experience and established best practices, it may not address every unique context. Users are encouraged to adapt it as needed to fit their specific objectives and cultural realities.
 
 ## Overview
 
@@ -10,9 +12,23 @@ ACF recently integrated a Hegelian meta-cycle: a dialectical engine that systema
 
 The framework draws from cross-disciplinary research, epistemological safeguards, and iterative prototyping. It emphasizes epistemic autonomy, reflexive inquiry, and resistance to algorithmic determinism through structured yet adaptive loops. 
 
-## Disclaimer
+## Computational Extension
 
-This framework is in continuous development. While it draws from direct experience and established best practices, it may not address every unique context. Users are encouraged to adapt it as needed to fit their specific objectives and cultural realities.
+ACF is not only a conceptual methodology — it is **technologically extensible**.
+
+It can be integrated into modern **private AI stacks** that combine:
+
+- **LLM orchestration** (e.g., via Ollama or equivalent runtime engines)  
+- **Vector databases** for contextual recall and semantic memory (e.g., Milvus-like architectures)  
+- **Modular ops and task interfaces** with event-driven execution  
+- **Container-native deployments**, optionally orchestrated through lightweight Kubernetes paradigms  
+
+This setup allows ACF to operate as a **computationally aware creative agent**: reflecting on its own outputs, introducing productive tensions, and synthesizing higher-order outcomes through dialectical cycles — such as the newly introduced **Hegelian Meta-Cycle**[^1].
+
+> Creativity becomes an evolving conversation — not just with humans, but with the architecture itself.
+
+[^1]: A dialectical engine that detects conceptual stagnation or ideological rigidity, generates structured antitheses, and reframes the work toward higher-order synthesis.
+
 
 ## Framework Structure
 
