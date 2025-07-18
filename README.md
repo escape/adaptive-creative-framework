@@ -157,3 +157,52 @@ ACF is for those who seek to balance **creative intuition with structured strate
 ## Notes
 
 [^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
+
+## ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
+
+                ╭────────────────────────────────────────────────────╮
+                │            Adaptive Creative Framework             │
+                │         (Human-facing Methodology Layer)           │
+                ╰────────────────────────────────────────────────────╯
+                                  │
+                                  ▼
+                        ╭─────────────────────╮
+                        │   CreativeState     │◄──┐
+                        │ (Snapshot of ACF)   │   │
+                        ╰─────────────────────╯   │
+                                  │               │
+                                  ▼               │
+                ╭────────────────────────────────────────╮
+                │      Hegelian Meta-Cycle Engine         │
+                │  → detect tension (novelty, drift...)   │
+                │  → generate antithesis                  │
+                │  → sublate into synthesis               │
+                ╰────────────────────────────────────────╯
+                                  │
+                     ┌────────────┴────────────┐
+                     ▼                         ▼
+         ╭──────────────────╮       ╭────────────────────────────╮
+         │ Synthesized State│       │  Updates ACF Flow / Phase  │
+         │  (New framing)   │──────▶│   (e.g. move to next phase)│
+         ╰──────────────────╯       ╰────────────────────────────╯
+                     │
+          ┌──────────┼────────────┐
+          ▼          ▼            ▼
+╭────────────────╮  ╭─────────────────────╮  ╭──────────────────────────╮
+│ Vector DB      │  │     LLM Engine      │  │  Ops / Task Controller   │
+│ (e.g. Milvus)  │  │  (e.g. Ollama)      │  │ (OpenServerless or Fn)   │
+│ memory archive │  │  ↔ prompt synthesis │  │  manages flow + timing   │
+╰────────────────╯  ╰─────────────────────╯  ╰──────────────────────────╯
+       ▲                   ▲
+       └──── store / query │
+                           └── inject prompts / extract reframings
+
+───────────────────────────────────────────────────────────────────────
+Legend:
+- CreativeState: JSON-style snapshot of ACF progress
+- Meta-Cycle: dialectical logic layer introducing productive tension
+- Synthesis: reframed creative trajectory
+- LLM + DB: generative + memory loop for semantic grounding
+- Ops: event-driven control of logic, time, and flow
+───────────────────────────────────────────────────────────────────────
+
