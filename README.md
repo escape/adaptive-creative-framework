@@ -8,13 +8,11 @@ This framework is in continuous development. While it draws from direct experien
 
 **ACF (Adaptive Creative Framework)** is a living, highly opinionated Agile methodology forged through real-world creative and political struggles. It balances structure and exploration, strategy and intuition — while actively protecting creative processes from ideological capture and epistemic drift.
 
-ACF recently integrated a Hegelian meta-cycle: a dialectical engine that systematically detects internal contradictions within each creative stage (the thesis), introduces provocative variations (antithesis), and produces higher-order syntheses to evolve the project. Rather than smoothing tension, ACF leverages it as a generative force — embracing contradiction as a fuel for creative resilience.
-
 The framework draws from cross-disciplinary research, epistemological safeguards, and iterative prototyping. It emphasizes epistemic autonomy, reflexive inquiry, and resistance to algorithmic determinism through structured yet adaptive loops. 
 
 ## Computational Extension
 
-ACF is a **technologically extensible** conceptual methodology.
+ACF is a **technologically extensible** conceptual methodology. We are testing the idea of a Hegelian meta-cycle as a *private AI-powered* dialectical engine that systematically detects *internal contradictions* within each creative stage (the thesis), introduces *provocative variations* (antithesis), and produces *higher-order syntheses* to evolve the project. Rather than smoothing tension, ACF leverages it as a *generative force* — embracing contradiction as *a fuel for creative resilience*.
 
 It can be integrated into modern **private AI stacks** that combine:
 
@@ -112,8 +110,6 @@ Key principles include:
 
 ## Repository Structure
 
-ACF is best managed as a modular markdown-based project:
-
 ```
 / Adaptive-Creative-Framework
 │── README.md
@@ -133,28 +129,7 @@ ACF is best managed as a modular markdown-based project:
 │   ├── examples/
 ```
 
-## Contribution Guidelines
-
-ACF evolves through collaboration. Contributions are welcome:
-
-1. **Fork the repository** and suggest enhancements.
-2. **Submit pull requests** with epistemically sound improvements.
-3. **Open issues** to propose safeguards or governance features.
-4. **Use and report** on epistemic integrity in application.
-
-## License
-
-Licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
-
-You are free to **use, modify, and distribute** it, provided that you credit:
-
-*"ACF: Adaptive Creative Framework by Wladimiro Bizzotto."*
-
-## Final Note
-
-ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
-
-## 🧠 ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
+## ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
 
                 ╭────────────────────────────────────────────────────╮
                 │            Adaptive Creative Framework             │
@@ -184,7 +159,9 @@ ACF is for those who seek to balance **creative intuition with structured strate
 
 ---
 
-## 🧩 Computational Backplane (LLM / Memory / Ops)
+
+
+## Computational Backplane (LLM / Memory / Ops)
 
                     [ Synthesized State ]
                                │
@@ -195,21 +172,34 @@ ACF is for those who seek to balance **creative intuition with structured strate
          │                        ▲                            │
          └────────► Prompts ◄────┘             Manages flow, timing, state
 
+### Legend
 
-
-
-
-
-
-
-───────────────────────────────────────────────────────────────────────
-Legend:
 - CreativeState: JSON-style snapshot of ACF progress
 - Meta-Cycle: dialectical logic layer introducing productive tension
 - Synthesis: reframed creative trajectory
 - LLM + DB: generative + memory loop for semantic grounding
 - Ops: event-driven control of logic, time, and flow
-───────────────────────────────────────────────────────────────────────
+
+## Contribution Guidelines
+
+ACF evolves through collaboration. Contributions are welcome:
+
+1. **Fork the repository** and suggest enhancements.
+2. **Submit pull requests** with epistemically sound improvements.
+3. **Open issues** to propose safeguards or governance features.
+4. **Use and report** on epistemic integrity in application.
+
+## License
+
+Licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
+
+You are free to **use, modify, and distribute** it, provided that you credit:
+
+*"ACF: Adaptive Creative Framework by Wladimiro Bizzotto."*
+
+## Final Note
+
+ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
 
 ## Notes
 
