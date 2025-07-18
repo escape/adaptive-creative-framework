@@ -154,10 +154,6 @@ You are free to **use, modify, and distribute** it, provided that you credit:
 
 ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
 
-## Notes
-
-[^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
-
 ## ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
 
                 ╭────────────────────────────────────────────────────╮
@@ -205,4 +201,8 @@ Legend:
 - LLM + DB: generative + memory loop for semantic grounding
 - Ops: event-driven control of logic, time, and flow
 ───────────────────────────────────────────────────────────────────────
+
+## Notes
+
+[^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
 
