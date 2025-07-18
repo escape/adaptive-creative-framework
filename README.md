@@ -1,5 +1,8 @@
 # ACF: Adaptive Creative Framework
 
+ACF doesn’t aim for perfect alignment — it aims for productive misalignment that sharpens vision.
+In a world of false clarity, contradiction becomes the most honest teacher.
+
 ## Overview
 
 **ACF (Adaptive Creative Framework)** is an evolving, highly opinionated Agile methodology shaped by real-world struggles in creative and political industries. It is designed to balance structure and exploration, providing a practical workflow for agile creative production while ensuring strategic alignment, iterative refinement, and resilience against ideological distortions.
