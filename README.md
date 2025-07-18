@@ -199,7 +199,7 @@ You are free to **use, modify, and distribute** it, provided that you credit:
 
 ## Final Note
 
-ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
+ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.  
 
 ## Notes
 
