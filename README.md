@@ -1,6 +1,6 @@
 # ACF: Adaptive Creative Framework
 
-Dialectically enhanced · Hegelian Meta-Cycle[1]
+Dialectically enhanced · Hegelian Meta-Cycle [^1]
 
 ## Overview
 
@@ -140,4 +140,4 @@ ACF is for those who seek to balance **creative intuition with structured strate
 
 ## Notes
 
-[1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
+[^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
