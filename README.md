@@ -154,7 +154,7 @@ You are free to **use, modify, and distribute** it, provided that you credit:
 
 ACF is for those who seek to balance **creative intuition with structured strategy**, anchored in **epistemic integrity and cultural resilience**. It is not just a method — it is a stance against ideological capture and cognitive complacency.
 
-## ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
+## 🧠 ACF + Hegelian Meta-Cycle: Computational Architecture (ASCII Diagram)
 
                 ╭────────────────────────────────────────────────────╮
                 │            Adaptive Creative Framework             │
@@ -181,17 +181,26 @@ ACF is for those who seek to balance **creative intuition with structured strate
          │ Synthesized State│       │  Updates ACF Flow / Phase  │
          │  (New framing)   │──────▶│   (e.g. move to next phase)│
          ╰──────────────────╯       ╰────────────────────────────╯
-                     │
-          ┌──────────┼────────────┐
-          ▼          ▼            ▼
-╭────────────────╮  ╭─────────────────────╮  ╭──────────────────────────╮
-│ Vector DB      │  │     LLM Engine      │  │  Ops / Task Controller   │
-│ (e.g. Milvus)  │  │  (e.g. Ollama)      │  │ (OpenServerless or Fn)   │
-│ memory archive │  │  ↔ prompt synthesis │  │  manages flow + timing   │
-╰────────────────╯  ╰─────────────────────╯  ╰──────────────────────────╯
-       ▲                   ▲
-       └──── store / query │
-                           └── inject prompts / extract reframings
+
+---
+
+## 🧩 Computational Backplane (LLM / Memory / Ops)
+
+                    [ Synthesized State ]
+                               │
+         ┌─────────────────────┼──────────────────────┐
+         ▼                     ▼                      ▼
+  [ Sent to LLM Engine ]   [ Stored in Vector DB ]   [ Ops / Task Controller ]
+   (e.g. Ollama)             (e.g. Milvus)             (e.g. OpenServerless)
+         │                        ▲                            │
+         └────────► Prompts ◄────┘             Manages flow, timing, state
+
+
+
+
+
+
+
 
 ───────────────────────────────────────────────────────────────────────
 Legend:
