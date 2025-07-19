@@ -205,3 +205,37 @@ ACF is for those who seek to balance **creative intuition with structured strate
 
 [^1]: A dialectical engine that introduces contradiction into the creative loop and synthesizes higher-order states.
 
+## ACF + Hegelian Meta-Cycle (Full Architecture · Compressed View)
+
+╭──── Adaptive Creative Framework ────╮
+│  Human-facing Phases (e.g. Sprint)  │
+╰─────────────────────────────────────╯
+                │
+                ▼
+      [ CreativeState Snapshot ]
+                │
+                ▼
+╭──── Hegelian Meta-Cycle Engine ─────╮
+│ • Detect Tension (e.g. drift)       │
+│ • Generate Antithesis               │
+│ • Synthesize into higher state      │
+╰─────────────────────────────────────╯
+                │
+     ┌──────────┴──────────┐
+     ▼                     ▼
+[ Synthesized State ]   [ ACF Next Phase ]
+     │
+     ▼
+╭─────────────────────────────────────╮
+│        Computational Backplane      │
+╰─────────────────────────────────────╯
+     │           │             │
+     ▼           ▼             ▼
+[ Vector DB ] [ LLM Engine ] [ Ops / Task Ctrl ]
+ (e.g. Milvus)  (e.g. Ollama)  (e.g. OpenFn/OPS)
+     ▲           ▲             ▲
+     └──── store/query ◄───────┘
+             ▲
+     enrich prompt / state
+
+
