@@ -157,9 +157,6 @@ Key principles include:
          │  (New framing)   │──────▶│   (e.g. move to next phase)│
          ╰──────────────────╯       ╰────────────────────────────╯
 
----
-
-
 
 ## Computational Backplane (LLM / Memory / Ops)
 
@@ -167,10 +164,11 @@ Key principles include:
                                │
          ┌─────────────────────┼──────────────────────┐
          ▼                     ▼                      ▼
-         
-  [ Sent to LLM Engine ]   [ Stored in Vector DB ]   [ Ops / Task Controller ]
-   (e.g. Ollama)             (e.g. Milvus)             (e.g. OpenServerless)
-         │                        ▲                            │
+  ╭────────────────────╮   ╭─────────────────────╮   ╭───────────────────────╮
+  │ Sent to LLM Engine │   │ Stored in Vector DB │   │ Ops / Task Controller │
+  │[e.g. Ollama]       │   │ [e.g. Milvus]       │   │ (e.g. OpenServerless) │
+  ╰────────────────────╯   ╰─────────────────────╯   ╰───────────────────────╯
+         │                       ▲                            │
          └────────► Prompts ◄────┘             Manages flow, timing, state
 
 ### Legend
