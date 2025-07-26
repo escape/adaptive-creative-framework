@@ -6,6 +6,8 @@ This framework is in continuous development. While it draws from direct experien
 
 ## Overview
 
+> Creativity becomes an evolving conversation — not just with humans, but with the architecture itself.
+
 **ACF (Adaptive Creative Framework)** is a living, highly opinionated Agile methodology forged through real-world creative and political struggles. It balances structure and exploration, strategy and intuition — while actively protecting creative processes from ideological capture and epistemic drift.
 
 The framework draws from cross-disciplinary research, epistemological safeguards, and iterative prototyping. It emphasizes epistemic autonomy, reflexive inquiry, and resistance to algorithmic determinism through structured yet adaptive loops. 
@@ -22,8 +24,6 @@ It can be integrated into modern **private AI stacks** that combine:
 - **Container-native deployments**, optionally orchestrated through lightweight Kubernetes paradigms  
 
 This setup allows ACF to operate as a **computationally aware creative agent**: reflecting on its own outputs, introducing productive tensions, and synthesizing higher-order outcomes through dialectical cycles — such as the newly introduced **Hegelian Meta-Cycle**[^1].
-
-> Creativity becomes an evolving conversation — not just with humans, but with the architecture itself.
 
 [^1]: A dialectical engine that detects conceptual stagnation or ideological rigidity, generates structured antitheses, and reframes the work toward higher-order synthesis.
 
